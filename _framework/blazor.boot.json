@@ -1,9 +1,9 @@
 {
   "entryAssembly": "Web",
   "resources": {
-    "hash": "sha256-lAIImAk/MPAXspEoR/uijUvcfQsz7GM3Tz4OAHqs4FE=",
+    "hash": "sha256-4ka4e4mGHUTIInU3OIfLJqFzo8UQYJDCBFz/yKoTQwE=",
     "runtime": {
-      "dotnet.6.0.26.b7reatcts0.js": "sha256-8CHKbA9EM/tfKxfdt9F3gXoxrjWzZyaUSPZi3fvCOjY=",
+      "dotnet.6.0.26.ibi03loba8.js": "sha256-8CHKbA9EM/tfKxfdt9F3gXoxrjWzZyaUSPZi3fvCOjY=",
       "dotnet.wasm": "sha256-xIeLMSXrBiEx4R56f4qfrFrG+zEoqV5nN22CKyNm+DY=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie/ro3/QzyS+/gGmO3Y/0CSAXw4k=",
@@ -59,7 +59,7 @@
       "System.Text.RegularExpressions.dll": "sha256-xhFpNSG+DmCbKuPGd9KLMLIWisctzAlV42n4Bzp+4+Q=",
       "System.Threading.dll": "sha256-IZNSs9W5AiSq4KzhJU5C5cL3XUhWbgQ+AN2YbUPkcBk=",
       "System.Threading.Thread.dll": "sha256-DxBWUaX9eG+aHPnqBMX+5A3prOlJPShq/KaiCPDpg9s=",
-      "Web.dll": "sha256-5y10faVQ8bMhQxycEm2p9HahW9zTft3dQBgnIp51Nd4=",
+      "Web.dll": "sha256-xZn3wwgOeIREXwhosy+uW0Ws0E8meJBMVxskP6bkWCY=",
       "Xna.Framework.dll": "sha256-vzxH890K422zVcC4NhgG9bh92XZuBgC1hm5KjJJ4liI="
     },
     "runtimeAssets": {
