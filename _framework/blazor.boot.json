@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Web",
   "resources": {
-    "hash": "sha256-4ka4e4mGHUTIInU3OIfLJqFzo8UQYJDCBFz/yKoTQwE=",
+    "hash": "sha256-pUkjC2a0NK2GOecW8M/JjqZq3SerfOHAFUqpEOoequY=",
     "runtime": {
       "dotnet.6.0.26.ibi03loba8.js": "sha256-8CHKbA9EM/tfKxfdt9F3gXoxrjWzZyaUSPZi3fvCOjY=",
       "dotnet.wasm": "sha256-xIeLMSXrBiEx4R56f4qfrFrG+zEoqV5nN22CKyNm+DY=",
@@ -59,7 +59,7 @@
       "System.Text.RegularExpressions.dll": "sha256-xhFpNSG+DmCbKuPGd9KLMLIWisctzAlV42n4Bzp+4+Q=",
       "System.Threading.dll": "sha256-IZNSs9W5AiSq4KzhJU5C5cL3XUhWbgQ+AN2YbUPkcBk=",
       "System.Threading.Thread.dll": "sha256-DxBWUaX9eG+aHPnqBMX+5A3prOlJPShq/KaiCPDpg9s=",
-      "Web.dll": "sha256-xZn3wwgOeIREXwhosy+uW0Ws0E8meJBMVxskP6bkWCY=",
+      "Web.dll": "sha256-Zf99S+D3usJ4FGAWQHvfjvFIvR1gndpHb/eK+Z02mTY=",
       "Xna.Framework.dll": "sha256-vzxH890K422zVcC4NhgG9bh92XZuBgC1hm5KjJJ4liI="
     },
     "runtimeAssets": {
